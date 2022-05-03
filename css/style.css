@@ -10,6 +10,7 @@ body {
     background: white;
     margin-top:17%;
     border-radius:25px 25px 25px 25px;
+    background-color: blue;
 }
 h1.login-title {
     color: orange;
